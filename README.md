@@ -6,7 +6,7 @@
  
 </h1>
 
-<h4 align="center">CR+</h4>
+<h4 align="center">Cloudreve-API</h4>
 
 
 
