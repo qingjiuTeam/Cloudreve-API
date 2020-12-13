@@ -17,4 +17,4 @@
   <a href="https://t.me/cloudreve_cr">Telegram 频道</a> •
 </p>
 
-这就是个api，用lua写的，看得懂就看看不懂的话问问其他大佬
+这就是个api，用lua写的，看得懂就看,看不懂的话问问其他大佬
